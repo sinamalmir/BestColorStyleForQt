@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Qt Creator color scheme: Sina Vivid Dark
+     Every C++ semantic category (local, field, parameter, function, macro, ...) has its own color. -->
+<style-scheme version="1.0" name="Sina Vivid Dark">
+  <!-- Base -->
+  <style name="Text" foreground="#d4d4d4" background="#1e1e1e"/>
+  <style name="Selection" background="#264f78"/>
+  <style name="LineNumber" foreground="#6e7681" background="#1e1e1e"/>
+  <style name="CurrentLine" background="#2a2d2e"/>
+  <style name="CurrentLineNumber" foreground="#e6e6e6" bold="true"/>
+  <style name="SearchResult" background="#613214"/>
+  <style name="SearchScope" background="#2c313a"/>
+  <style name="Parentheses" foreground="#ffd700" background="#3a3d41" bold="true"/>
+  <style name="ParenthesesMismatch" foreground="#ffffff" background="#a1260d"/>
+  <style name="AutoComplete" foreground="#ffd700" background="#3a3d41"/>
+  <style name="Occurrences" background="#3a3d41"/>
+  <style name="Occurrences.Unused" foreground="#8a8a8a" underlineColor="#8a8a8a" underlineStyle="SingleUnderline"/>
+  <style name="Occurrences.Rename" background="#5a3a1a"/>
+  <style name="Link" foreground="#4fc1ff"/>
+  <style name="VisualWhitespace" foreground="#3b3b3b"/>
+  <style name="DisabledCode" foreground="#6a6a6a" background="#1e1e1e"/>
+
+  <!-- Literals & comments -->
+  <style name="Number" foreground="#b5cea8"/>
+  <style name="String" foreground="#ce9178"/>
+  <style name="Comment" foreground="#6a9955" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#57a64a" italic="true"/>
+  <style name="Doxygen.Tag" foreground="#7fb37f" bold="true"/>
+
+  <!-- Keywords & types -->
+  <style name="Keyword" foreground="#569cd6" bold="true"/>
+  <style name="PrimitiveType" foreground="#569cd6"/>
+  <style name="Type" foreground="#4ec9b0"/>
+  <style name="Concept" foreground="#4ec9b0" italic="true"/>
+  <style name="Namespace" foreground="#b8d7a3"/>
+  <style name="Enumeration" foreground="#4fc1ff"/>
+
+  <!-- Variables (the "gray" parts) -->
+  <style name="Local" foreground="#9cdcfe"/>
+  <style name="Parameter" foreground="#9cdcfe" italic="true"/>
+  <style name="Field" foreground="#f0a868"/>
+  <style name="StaticMember" foreground="#f0a868" italic="true"/>
+  <style name="Global" foreground="#ff7b9c"/>
+  <style name="OutputArgument" underlineColor="#d4d4d4" underlineStyle="SingleUnderline"/>
+
+  <!-- Functions -->
+  <style name="Function" foreground="#dcdcaa"/>
+  <style name="FunctionDefinition" foreground="#dcdcaa" bold="true"/>
+  <style name="VirtualMethod" foreground="#dcdcaa" italic="true"/>
+  <style name="Declaration" bold="true"/>
+
+  <!-- Preprocessor & operators -->
+  <style name="Preprocessor" foreground="#c586c0"/>
+  <style name="Macro" foreground="#d670d6" bold="true"/>
+  <style name="Operator" foreground="#d4d4d4"/>
+  <style name="Overloaded Operator" foreground="#dcdcaa"/>
+  <style name="Punctuation" foreground="#d4d4d4"/>
+  <style name="Label" foreground="#c8c8c8" bold="true"/>
+
+  <!-- Diff -->
+  <style name="AddedLine" foreground="#73c991"/>
+  <style name="RemovedLine" foreground="#f14c4c"/>
+  <style name="DiffFile" foreground="#4fc1ff"/>
+  <style name="DiffLocation" foreground="#dcdcaa"/>
+</style-scheme>
